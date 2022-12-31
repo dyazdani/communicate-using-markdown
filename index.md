@@ -6,3 +6,9 @@
 ###### Header 6
 
 ![Image of a "header"](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/10/10/Header.jpg)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
